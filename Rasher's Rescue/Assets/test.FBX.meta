@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 437125ba6857d904db330ab9e29a91f1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: 3
+    100006: 4
+    100008: Arm002
+    100010: Arm1
+    100012: Bone037
+    100014: Bone038
+    100016: Bone039
+    100018: Bone040
+    100020: Bone041
+    100022: Bone042
+    100024: Bone043
+    100026: Bone044
+    100028: Bone044(mirrored)
+    100030: Bone045
+    100032: Bone045(mirrored)
+    100034: Bone046
+    100036: Bone046(mirrored)
+    100038: Bone047
+    100040: Bone047(mirrored)
+    100042: Bone048
+    100044: Bone049
+    100046: Box001
+    100048: Box002
+    100050: CATRigHub001
+    100052: CATRigHub002
+    100054: CATRigHub003
+    100056: Character002
+    100058: Character003
+    100060: Character004
+    100062: Character006
+    100064: Character007
+    100066: Character008
+    100068: Character009
+    100070: Character010
+    100072: Character012
+    100074: Character013
+    100076: Character014
+    100078: Character015
+    100080: Character016
+    100082: Character017
+    100084: connectBone001
+    100086: connectBone002
+    100088: connectBone003
+    100090: connectBone004
+    100092: connectBone005
+    100094: Eyes
+    100096: //RootNode
+    400000: 1
+    400002: 2
+    400004: 3
+    400006: 4
+    400008: Arm002
+    400010: Arm1
+    400012: Bone037
+    400014: Bone038
+    400016: Bone039
+    400018: Bone040
+    400020: Bone041
+    400022: Bone042
+    400024: Bone043
+    400026: Bone044
+    400028: Bone044(mirrored)
+    400030: Bone045
+    400032: Bone045(mirrored)
+    400034: Bone046
+    400036: Bone046(mirrored)
+    400038: Bone047
+    400040: Bone047(mirrored)
+    400042: Bone048
+    400044: Bone049
+    400046: Box001
+    400048: Box002
+    400050: CATRigHub001
+    400052: CATRigHub002
+    400054: CATRigHub003
+    400056: Character002
+    400058: Character003
+    400060: Character004
+    400062: Character006
+    400064: Character007
+    400066: Character008
+    400068: Character009
+    400070: Character010
+    400072: Character012
+    400074: Character013
+    400076: Character014
+    400078: Character015
+    400080: Character016
+    400082: Character017
+    400084: connectBone001
+    400086: connectBone002
+    400088: connectBone003
+    400090: connectBone004
+    400092: connectBone005
+    400094: Eyes
+    400096: //RootNode
+    2300000: Box001
+    2300002: Box002
+    3300000: Box001
+    3300002: Box002
+    4300000: Box001
+    4300002: Box002
+    4300004: Eyes
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Eyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arm1
+        weight: 1
+      - path: Arm002
+        weight: 1
+      - path: Bone037
+        weight: 1
+      - path: Bone037/Bone038
+        weight: 1
+      - path: Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone037/Bone038/Bone039/Bone040
+        weight: 1
+      - path: Bone037/Bone038/Bone039/Bone040/Bone041
+        weight: 1
+      - path: Bone037/Bone038/Bone039/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone037/Bone038/Bone039/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: Bone037/Bone038/connectBone001
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/2
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/2/1
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/connectBone003
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/connectBone003/Bone048
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/connectBone005
+        weight: 1
+      - path: Bone037/Bone038/connectBone001/Bone044/Bone045/Bone046/Bone047/connectBone004/3/connectBone005/4
+        weight: 1
+      - path: Bone037/Bone038/connectBone002
+        weight: 1
+      - path: Bone037/Bone038/connectBone002/Bone044(mirrored)
+        weight: 1
+      - path: Bone037/Bone038/connectBone002/Bone044(mirrored)/Bone045(mirrored)
+        weight: 1
+      - path: Bone037/Bone038/connectBone002/Bone044(mirrored)/Bone045(mirrored)/Bone046(mirrored)
+        weight: 1
+      - path: Bone037/Bone038/connectBone002/Bone044(mirrored)/Bone045(mirrored)/Bone046(mirrored)/Bone047(mirrored)
+        weight: 1
+      - path: Bone037/Bone038/connectBone002/Bone044(mirrored)/Bone045(mirrored)/Bone046(mirrored)/Bone047(mirrored)/Bone049
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub002
+        weight: 1
+      - path: CATRigHub003
+        weight: 1
+      - path: Character002
+        weight: 1
+      - path: Character003
+        weight: 1
+      - path: Character004
+        weight: 1
+      - path: Character006
+        weight: 1
+      - path: Character007
+        weight: 1
+      - path: Character008
+        weight: 1
+      - path: Character009
+        weight: 1
+      - path: Character010
+        weight: 1
+      - path: Character012
+        weight: 1
+      - path: Character013
+        weight: 1
+      - path: Character014
+        weight: 1
+      - path: Character015
+        weight: 1
+      - path: Character016
+        weight: 1
+      - path: Character017
+        weight: 1
+      - path: Eyes
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
